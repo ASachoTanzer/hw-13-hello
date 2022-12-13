@@ -20,5 +20,5 @@ https://colab.research.google.com/drive/1bvCqXYEkQYuEo8g2QDvx00Cl8uDw4GjO?usp=sh
 
 ### Deliverables:
 - Complete this project in a Google Colab notebook. Edit the readme line below with the link to your google colab notebook:
-  - Google Colab link Submission:
+  - Google Colab link Submission: https://colab.research.google.com/drive/1L5P7OwnnPmpKm8mshdpvTq5_bp_69B6R?usp=sharing
 - Give a presentation on your findings in the last class.
